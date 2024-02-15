@@ -10,3 +10,12 @@
 	path = cmake
 	url = https://github.com/sudara/cmake-includes.git
 	branch = main
+[submodule "brickworks"]
+	path = brickworks
+	url = git@github.com:kmolcard/brickworks.git
+[submodule "modules/melatonin_blur"]
+	path = modules/melatonin_blur
+	url = git@github.com:kmolcard/melatonin_blur.git
+[submodule "chowdsp_utils"]
+	path = chowdsp_utils
+	url = git@github.com:Chowdhury-DSP/chowdsp_utils.git
